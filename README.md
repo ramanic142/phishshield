@@ -3,11 +3,7 @@
 PhishShield is a full-stack web application that helps users detect phishing emails, analyze suspicious URLs, and improve cybersecurity awareness through an interactive learning experience. The platform combines rule-based email analysis with a modern web interface, educational phishing simulations, and an AI-powered assistant to help users recognize and respond to phishing attacks.
 
 --- 
-   ## 🎥 Demo
-
-   > This was built as a hackathon MVP — the backend was run locally during development, so live deployment isn't reliable. Watch a walkthrough instead:
-
-   [📹 Demo video here]
+   📹 [Watch the demo video](phishshield-demo.mp4) — see PhishShield analyzing an email and generating a risk score in real time, plus a look at the "Spot the Scam" interactive game.
 
 ## 📖 Project Overview
 
