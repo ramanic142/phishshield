@@ -2,7 +2,12 @@
 
 PhishShield is a full-stack web application that helps users detect phishing emails, analyze suspicious URLs, and improve cybersecurity awareness through an interactive learning experience. The platform combines rule-based email analysis with a modern web interface, educational phishing simulations, and an AI-powered assistant to help users recognize and respond to phishing attacks.
 
----
+--- 
+   ## 🎥 Demo
+
+   > This was built as a hackathon MVP — the backend was run locally during development, so live deployment isn't reliable. Watch a walkthrough instead:
+
+   [📹 Demo video here]
 
 ## 📖 Project Overview
 
@@ -328,12 +333,14 @@ This project demonstrates:
 
 ---
 
-## 👤 Author
+   ## 👤 Authors
 
-**Krishnasree Konda**
+   **Krishnasree Konda** — Original development
+   Master's in Data Analytics, Clark University
 
-Master's in Data Analytics  
-Clark University
+   **Ramani Chiranjeevulu** — Fork maintainer / portfolio documentation
+   Master's in Data Analytics, Clark University
+   github.com/ramanic142
 
 ---
 
